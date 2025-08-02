@@ -33,7 +33,7 @@ It combines a **React-based frontend** with a **Django backend** and an **LSTM (
 **Frontend**
 
 - React
-- JavaScript / TypeScript (if applicable)
+- JavaScript
 - Axios (API communication)
 
 **Backend**
